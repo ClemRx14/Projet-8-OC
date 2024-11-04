@@ -6,9 +6,7 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
-.py-3 {
-	background-color: #A8D5D8;
-}
+
 .top-header {
 	background-color: white;
 	position: sticky;
