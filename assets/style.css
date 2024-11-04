@@ -10,7 +10,8 @@ body {
 	filter: contrast(1.2);
 }
 .d-block {
-	color: #000;
+	background-color: #000;
+	color: white;
 }
 .top-header {
 	background-color: white;
