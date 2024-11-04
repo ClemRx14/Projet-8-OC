@@ -6,12 +6,8 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
-.carousel-item img {
-	filter: contrast(1.2);
-}
-.d-block {
-	background-color: #000;
-	color: white;
+.py-3 {
+	background-color: #A8D5D8;
 }
 .top-header {
 	background-color: white;
